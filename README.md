@@ -1,1 +1,15 @@
 # CSGAMES-Tryouts-FPS
+
+This is the basic fps game build for Unreal Engine. You are free to modify it in any way you like for this challenge.
+If you are newer to Unreal and want some goals to focus on here they are :
+ * change the bullet.
+ * change the gun model's texture colour.
+ * change the gun model.
+ * change the bullet's size, speed or impact force.
+Keep in mind this list is here just to give you ideas and get you going ! you don't have to do any of this if you have other ideas !
+
+Finally, your submition will be in the form of a github link containing your project and a README.md file containing the following info : 
+ * engine version: 
+ * project template + any imported model or blueprint (empty if from scratch): 
+ * short list of implemented features/modification: 
+ * any other information you wish to communicate(challenges worth mentioning, how your implementation shows your skills etc):
