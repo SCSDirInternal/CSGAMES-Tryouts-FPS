@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_FPS/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset",
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_FPS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
